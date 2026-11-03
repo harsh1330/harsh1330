@@ -14,14 +14,6 @@
   <a href="mailto:hgupta7629@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-email-dark.png"><img src="assets/pill-email-light.png" height="32" alt="Email"></picture></a>
 </p>
 
-### Skills
-
-**Languages** &nbsp; `Python` `TypeScript` `JavaScript` `SQL` `Bash`<br>
-**Backend & cloud** &nbsp; `Django` `Flask` `AWS Lambda` `S3` `SQS` `EventBridge` `GCP Cloud Functions` `Linux`<br>
-**Databases** &nbsp; `PostgreSQL` `MySQL` `MSSQL` `MongoDB`<br>
-**Tooling** &nbsp; `Docker` `Git` `GitHub Actions` `Vitest` `Selenium`<br>
-<sub>**Data** &nbsp; `BigQuery` `Redshift` `Snowflake` `Debezium` `Kafka Connect` `Confluent`</sub>
-
 ### Things I've built
 
 <a href="https://github.com/harsh1330/pounce">
